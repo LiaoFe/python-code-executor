@@ -1,0 +1,6 @@
+aiohttp==3.9.5
+aiopyston==1.2.1
+fastapi==0.111.0
+numpy==1.25.1
+pydantic==2.7.2
+python-dotenv==1.0.1
